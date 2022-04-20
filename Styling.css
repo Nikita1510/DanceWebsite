@@ -1,0 +1,35 @@
+.margin{
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(184, 199, 212);
+}
+
+.header{
+    background: rgb(177, 174, 174);
+    background-blend-mode: darken;
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.inline{
+    display: inline;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.footer{
+    font-size: 12px;
+    text-align:center;
+    background: rgb(177, 174, 174);
+    background-blend-mode: darken;
+    background-size: cover;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
